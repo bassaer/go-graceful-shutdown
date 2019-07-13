@@ -13,3 +13,6 @@ test:
 
 clean:
 	rm -f ./server
+
+run:
+	@./server
